@@ -21,7 +21,7 @@ npm i -s nascentkit-react-navigation
 
 ## Documentation
 
-Check out the [Component Guide](https://github.com/nascentdigital/nascentkit-react-native/docs/tree/master/doc)
+Check out the [Component Guide](https://github.com/nascentdigital/nascentkit-react-native/tree/master/doc)
 to see what's available and learn how to use our components.
 
 
