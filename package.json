@@ -21,17 +21,17 @@
   "homepage": "https://github.com/nascentdigital/nascentkit-react-native#Readme.md",
   "directories": {
     "doc": "doc",
-    "lib", "src",
+    "lib": "src",
     "test": "test"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "main": "src/index.js",
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
-
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-native": "^0.57.3"
   }
 }
