@@ -1,0 +1,37 @@
+{
+  "name": "nascentkit-react-native",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [
+    "react",
+    "native",
+    "component",
+    "library"
+  ],
+  "author": "Simeon de Dios <simeon.dedios@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nascentdigital/nascentkit-react-native.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nascentdigital/nascentkit-react-native/issues",
+    "email": "simeon.dedios@gmail.com"
+  },
+  "homepage": "https://github.com/nascentdigital/nascentkit-react-native#Readme.md",
+  "directories": {
+    "doc": "doc",
+    "lib", "src",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "src/index.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
